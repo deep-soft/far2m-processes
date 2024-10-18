@@ -42,7 +42,7 @@ $^#Panel Processes: Configuration#
     Allows, prohibits the output of logs to a file (set file path).
 
   #Save configuration to file#
-    Saves the configuration to a file ($HOME/.config/far2l/plugins/processes/config.ini), additionally allows you to manually fine-tune the columns (width, display names, etc.).
+    Saves the configuration to a file ($HOME/.config/far2m/plugins/processes/config.ini), additionally allows you to manually fine-tune the columns (width, display names, etc.).
 
  #Select panel fields#
    Aviable <-> Selected. Use #SPACE# #ENTER# or mouse click.
